@@ -4,7 +4,7 @@ title: First Post. Hello gitworld!
 subtitle: This site is under construction
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [first]
 comments: false
 ---
 
