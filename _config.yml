@@ -6,19 +6,19 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Jesus J. Ballesteros, Ph. D.
 
 # Your name to show in the footer
-author: Some Person
+author: Jesus J. Ballesteros
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Ph. D. in Neuroscience. Professional information"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://jesusjballesteros.com"
 
 # --- Logo --- #
 
@@ -39,14 +39,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "jesusjbc@mit.edu"
+#  facebook: deanattali
+  github: JesusJBallesteros
+  twitter: JJBallesterosC
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: jesusjballesteros
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -60,24 +60,24 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: https://scholar.google.com/citations?hl=en&user=twNQf4sAAAAJ&view_op=list_works&sortby=pubdate
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+#  facebook: false
   linkedin: true
-  vk: false
+#  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "jesusjballesteros.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -89,7 +89,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "science,electrophysiology,brain,neuroscience,neuron"
 
 # --- Colours / background image --- #
 
