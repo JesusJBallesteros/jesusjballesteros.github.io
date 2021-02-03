@@ -4,7 +4,7 @@ title: About me
 subtitle: Postdoctoral researcher at MGH and MIT. Boston, MA.
 ---
 
-As experienced electrophysiologist, I've preformed recordings on several in vitro and in vivo models:
+As experienced electrophysiologist, I've performed recordings on several in vitro and in vivo models:
 
 - Rodent hippocampal slices.
 - Rodent head-fixated acute models.
