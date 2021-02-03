@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Postdoctoral researcher at MGH and MIT. Boston, MA.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+As experienced electrophysiologist, I've preformed recordings on several in vitro and in vivo models:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Rodent hippocampal slices.
+- Rodent head-fixated acute models.
+- Rodent free-moving chronic models.
+- NHPs head-fixated chronic models.
 
-What else do you need?
+The range of projects I've been involved in covers:
 
-### My story
+- Non-NMDA hippocampal plasticity mechanisms.
+- NMDA-dependent early/long term potentiation on in vivo models.
+- Anesthesia induction and recovery dynamics on NHPs. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Please, have a look to my Scholar site for a detailed list of publications. 
