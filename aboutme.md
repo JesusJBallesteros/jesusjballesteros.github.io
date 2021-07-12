@@ -4,17 +4,8 @@ title: About me
 subtitle: Postdoctoral researcher at MGH and MIT. Boston, MA.
 ---
 
-As experienced electrophysiologist, I've performed recordings on several _in vitro_ and _in vivo_ models:
-
-- Rodent hippocampal slices.
-- Rodent head-fixated acute models.
-- Rodent free-moving chronic models.
-- NHPs head-fixated chronic models.
-
-The range of projects I've been involved in covers:
-
-- Non-NMDA hippocampal plasticity mechanisms.
-- NMDA-dependent early/long term potentiation on in vivo models.
-- Anesthesia induction and recovery dynamics on NHPs. 
-
-Please, have a look to my Scholar site for a detailed list of publications. 
+Born in Spain, I obtained my Bachelor degree in Biology at the Universidad Complutense, Madrid.
+I got my Master's and PhD's in Neuroscience at the Universidad Autonoma, Madrid.
+I moved to Germany to complete two years of Postdoctoral work at the Ruhr Universitat Bochum, Bochum.
+Currently, I am in Cambridge, Massachusetts. I work for the Department of Anesthesia at MGH, Boston.
+My daily work is at MIT's MillerLab and NSRL, where I am an affiliated postdoctoral fellow.
