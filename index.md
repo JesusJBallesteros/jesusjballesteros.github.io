@@ -8,7 +8,7 @@ I have experience with recordings on several _in vitro_ and _in vivo_ models:
 
 - **Rodent** hippocampal slices.
 - Rodent **head-fixated** acute models.
-- Rodent free-moving **chronic** models.
+- Rodent **free-moving** chronic models.
 - **NHPs** head-fixated chronic models.
 
 The range of projects I've been involved in covers:
