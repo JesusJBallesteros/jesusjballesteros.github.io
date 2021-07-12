@@ -18,6 +18,7 @@ The range of projects I've been involved in covers:
 - **Anesthesia** induction and recovery **dynamics** on NHPs. 
 
 Publications:  
+
 - **Ballesteros, JJ.**, Briscoe, J. and Ishizawa, Y. "Neural signatures of α2 adrenergic agonist-induced unconsciousness and awakening by antagonist". eLife. 2020.  
 - **Ballesteros, JJ.**, Huang, P., Patel, SR., Eskandar, EN. and Ishizawa, Y. "Dynamics of ketamine-induced loss and return of consciousness across primate neocortex". Anesthesiology. 2020.  
 - Patel, SR., **Ballesteros, JJ.**, Ahmed, OJ., Huang, P., Briscoe, J., Eskandar, EN. and Ishizawa, Y. "Dynamics of recovery from anesthesia-induced unconsciousness across primate neocortex". Brain. 2020.  
